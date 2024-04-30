@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071196201791",
+    "project_id": "flutter-ai-app-22fa3",
+    "storage_bucket": "flutter-ai-app-22fa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071196201791:android:78173fef5d47fb16c9698a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_proton_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071196201791-4de13vhaabng13v328qb7083u6fta9i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB17OoE9q8iBEY9zlA4-nd5HBy9fQ0sYF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071196201791-4de13vhaabng13v328qb7083u6fta9i5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
